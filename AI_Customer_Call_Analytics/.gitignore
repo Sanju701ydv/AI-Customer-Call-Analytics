@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Audio Files
+*.wav
+*.mp3
+*.flac
+
+# OS Files
+.DS_Store
+Thumbs.db

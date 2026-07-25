@@ -1,0 +1,6 @@
+pandas
+spacy
+textblob
+openai-whisper
+torch
+jupyter
