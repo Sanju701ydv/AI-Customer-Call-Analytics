@@ -117,7 +117,8 @@ The interactive Power BI dashboard provides:
 
 ## Dashboard Preview
 
-> **Add your dashboard screenshot here**
+> ![Uploading Screenshot 2026-07-26 013720.png…]()
+
 
 ```
 images/dashboard.png
@@ -127,7 +128,7 @@ Example:
 
 ```markdown
 ![Dashboard](images/dashboard.png)
-```
+Link for the dashboard : https://app.powerbi.com/groups/me/reports/c44085a9-430b-45ba-b696-297056de5555/33c1c903885ecc4733e7?experience=power-bi
 
 ---
 
