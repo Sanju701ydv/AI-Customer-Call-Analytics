@@ -116,18 +116,8 @@ The interactive Power BI dashboard provides:
 ---
 
 ## Dashboard Preview
+<img width="957" height="746" alt="Screenshot 2026-07-26 013720" src="https://github.com/user-attachments/assets/425eb959-164a-44d7-adc4-d9edf0f4eb0f" />
 
-> ![Uploading Screenshot 2026-07-26 013720.png…]()
-
-
-```
-images/dashboard.png
-```
-
-Example:
-
-```markdown
-![Dashboard](images/dashboard.png)
 Link for the dashboard : https://app.powerbi.com/groups/me/reports/c44085a9-430b-45ba-b696-297056de5555/33c1c903885ecc4733e7?experience=power-bi
 
 ---
