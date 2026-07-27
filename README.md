@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Customer Call Analytics Dashboard
+# 🤖 AI-Customer-Call-Analytics
 
 An end-to-end **Customer Call Analytics** project that transforms customer call transcripts into meaningful business insights using **Natural Language Processing (NLP), PostgreSQL, SQL, and Power BI**.
 
@@ -118,7 +118,7 @@ The interactive Power BI dashboard provides:
 ## Dashboard Preview
 <img width="957" height="746" alt="Screenshot 2026-07-26 013720" src="https://github.com/user-attachments/assets/425eb959-164a-44d7-adc4-d9edf0f4eb0f" />
 
-Link for the dashboard : https://app.powerbi.com/groups/me/reports/c44085a9-430b-45ba-b696-297056de5555/33c1c903885ecc4733e7?experience=power-bi
+## Live Dashboard: https://app.powerbi.com/groups/me/reports/c44085a9-430b-45ba-b696-297056de5555/33c1c903885ecc4733e7?experience=power-bi
 
 ---
 
@@ -174,13 +174,13 @@ The dashboard helps answer business questions such as:
 Clone the repository
 
 ```bash
-git clone https://github.com/Sanju701ydv/Customer-Call-Sentiment-Analysis.git
+git clone https://github.com/Sanju701ydv/AI-Customer-Call-Analytics.git
 ```
 
 Move into the project folder
 
 ```bash
-cd Customer-Call-Sentiment-Analysis
+cd AI-Customer-Call-Analytics
 ```
 
 Install dependencies
